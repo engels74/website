@@ -30,9 +30,9 @@ title: engels74/qflood
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag6001" onclick="CopyToClipboard('tag6001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/qflood/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">View builds</a></td></tr>
-<tr><td><div id="tag6002" onclick="CopyToClipboard('tag6002');return false;" class="tag-decoration">nightly</div></td><td>Nightly builds</td><td><a href="https://github.com/engels74/qflood/commits/nightly" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div id="tag29718" onclick="CopyToClipboard('tag29718');return false;" class="tag-decoration">nightly</div><div id="tag13811" onclick="CopyToClipboard('tag13811');return false;" class="tag-decoration">nightly-5.1.4--20486217775</div><div id="tag24193" onclick="CopyToClipboard('tag24193');return false;" class="tag-decoration">nightly-8d0a5e1</div><div id="tag2709" onclick="CopyToClipboard('tag2709');return false;" class="tag-decoration">nightly-v5</div><div id="tag1801" onclick="CopyToClipboard('tag1801');return false;" class="tag-decoration">nightly-v5.1</div><div id="tag4557" onclick="CopyToClipboard('tag4557');return false;" class="tag-decoration">nightly-v5.1.4</div></td><td>nightly</td><td><a href="https://github.com/engels74/qflood/commit/8d0a5e1c9180df20fb430cbfca0a14e4d0a7be2d" target="_blank">Upstream update: alpinevpn-5251e5c => alpinevpn-337a82e</a></td><td><a href="https://github.com/engels74/qflood/actions/runs/20858008165" target="_blank">2026-01-09 16:12:32</a></td></tr>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag17413" onclick="CopyToClipboard('tag17413');return false;" class="tag-decoration">latest</div><div id="tag17089" onclick="CopyToClipboard('tag17089');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/qflood/commit/0000000" target="_blank">Initial setup</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">2026-01-09 00:00:00</a></td></tr>
+</tbody>
   </table>
 </div>
 
