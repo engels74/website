@@ -26,8 +26,8 @@ title: engels74/sabnzbd
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag7001" onclick="CopyToClipboard('tag7001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/sabnzbd/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/sabnzbd/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag10365" onclick="CopyToClipboard('tag10365');return false;" class="tag-decoration">release</div><div id="tag20773" onclick="CopyToClipboard('tag20773');return false;" class="tag-decoration">release-4.5.5</div><div id="tag9081" onclick="CopyToClipboard('tag9081');return false;" class="tag-decoration">release-b01c151</div><div id="tag8925" onclick="CopyToClipboard('tag8925');return false;" class="tag-decoration">release-v4</div><div id="tag17723" onclick="CopyToClipboard('tag17723');return false;" class="tag-decoration">release-v4.5</div><div id="tag29341" onclick="CopyToClipboard('tag29341');return false;" class="tag-decoration">release-v4.5.5</div></td><td>Releases</td><td><a href="https://github.com/engels74/sabnzbd/commit/b01c1518a6f19b2601bd544dd6c4fdcc6b90f3b2" target="_blank">Upstream update: alpinevpn-5251e5c => alpinevpn-337a82e</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/20858010334" target="_blank">2026-01-09 16:12:37</a></td></tr>
+</tbody>
   </table>
 </div>
 
