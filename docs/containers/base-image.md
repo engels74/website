@@ -26,9 +26,9 @@ title: engels74/base-image
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag1001" onclick="CopyToClipboard('tag1001');return false;" class="tag-decoration">alpinevpn</div></td><td>Alpine with VPN support</td><td><a href="https://github.com/engels74/base-image/commits/alpinevpn" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/base-image/actions" target="_blank">View builds</a></td></tr>
-<tr><td><div id="tag1002" onclick="CopyToClipboard('tag1002');return false;" class="tag-decoration">noblevpn</div></td><td>Noble (Ubuntu) with VPN support</td><td><a href="https://github.com/engels74/base-image/commits/noblevpn" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/base-image/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div id="tag1074" onclick="CopyToClipboard('tag1074');return false;" class="tag-decoration">alpinevpn</div><div id="tag16819" onclick="CopyToClipboard('tag16819');return false;" class="tag-decoration">alpinevpn-89f692c</div></td><td>Alpine 3.22</td><td><a href="https://github.com/engels74/base-image/commit/89f692c2f7fb8f3404354048d9588396b1424ec2" target="_blank">Sync with upstream (hotio/base@alpinevpn) and apply custom updates</a></td><td><a href="https://github.com/engels74/base-image/actions/runs/20933882926" target="_blank">2026-01-12 20:26:03</a></td></tr>
+<tr><td><div id="tag31721" onclick="CopyToClipboard('tag31721');return false;" class="tag-decoration">noblevpn</div><div id="tag6001" onclick="CopyToClipboard('tag6001');return false;" class="tag-decoration">noblevpn-53adaaf</div></td><td>Ubuntu 24.04</td><td><a href="https://github.com/engels74/base-image/commit/53adaafd4bdf39fd1182b0deebc1cb59ed2b2471" target="_blank">Sync with upstream (hotio/base@noblevpn) and apply custom updates</a></td><td><a href="https://github.com/engels74/base-image/actions/runs/20911019872" target="_blank">2026-01-12 07:15:11</a></td></tr>
+</tbody>
   </table>
 </div>
 
