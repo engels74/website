@@ -17,17 +17,18 @@
     ]
   },
   "release": {
-    "commit_message": "Upstream update: alpinevpn-4dcfd96 => alpinevpn-213d573",
-    "commit_sha": "f20ba738acb84ad7b754cae5fe3428ed72cd3528",
+    "commit_message": "chore(upstream): sync VPN port forwarding changes from hotio\n\n- Rework VPN port forwarding to use --torrenting-port CLI argument\n  instead of API calls (works regardless of auth settings)\n- Simplify forwarded_port_update_app (now just kills process to restart)\n- Remove default qBittorrent.conf (qBittorrent creates its own)\n- Remove config installation from init-setup-app\n- Enable ARM64 smoke tests in CI\n- Delete legacy branch (matching upstream)",
+    "commit_sha": "f9a33c809be8de0f463aba8c101755893ddcf02a",
     "description": "Releases",
     "hide": false,
-    "last_updated": "2026-01-12T07:21:38.000Z",
-    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/20911151680",
+    "last_updated": "2026-01-12T20:44:01.000Z",
+    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/20934369649",
     "latest": true,
     "tags": [
+      "latest",
       "release",
+      "release-f9a33c8",
       "release-5.1.4",
-      "release-f20ba73",
       "release-v5",
       "release-v5.1",
       "release-v5.1.4"
