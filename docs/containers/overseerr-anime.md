@@ -40,8 +40,8 @@ title: engels74/overseerr-anime
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag4001" onclick="CopyToClipboard('tag4001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag10116" onclick="CopyToClipboard('tag10116');return false;" class="tag-decoration">release</div><div id="tag12503" onclick="CopyToClipboard('tag12503');return false;" class="tag-decoration">release-d5becef</div><div id="tag30537" onclick="CopyToClipboard('tag30537');return false;" class="tag-decoration">release-1.34.0-anime</div><div id="tag12227" onclick="CopyToClipboard('tag12227');return false;" class="tag-decoration">release-v1</div><div id="tag25967" onclick="CopyToClipboard('tag25967');return false;" class="tag-decoration">release-v1.34</div><div id="tag30121" onclick="CopyToClipboard('tag30121');return false;" class="tag-decoration">release-v1.34.0</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commit/d5becef095e941be8e070d06e8393bbfe507df73" target="_blank">Upstream update: alpinevpn-213d573 => alpinevpn-89f692c</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions/runs/20935301308" target="_blank">2026-01-12 21:17:21</a></td></tr>
+</tbody>
   </table>
 </div>
 
