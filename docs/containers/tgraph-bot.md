@@ -26,8 +26,9 @@ title: engels74/tgraph-bot
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag8001" onclick="CopyToClipboard('tag8001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/tgraph-bot/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div id="tag4117" onclick="CopyToClipboard('tag4117');return false;" class="tag-decoration">nightly</div><div id="tag1383" onclick="CopyToClipboard('tag1383');return false;" class="tag-decoration">nightly-c7f49ff</div><div id="tag29030" onclick="CopyToClipboard('tag29030');return false;" class="tag-decoration">nightly-87784dd6255bbf3da172777d78608a038965a542</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/tgraph-bot/commit/c7f49ffed1fa547c803c23702365e1b7863ebc0d" target="_blank">Upstream update: alpinevpn-213d573 => alpinevpn-89f692c</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions/runs/20935305172" target="_blank">2026-01-12 21:17:30</a></td></tr>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag5307" onclick="CopyToClipboard('tag5307');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/tgraph-bot/commit/0000000" target="_blank">Initial setup</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions" target="_blank">2026-01-09 00:00:00</a></td></tr>
+</tbody>
   </table>
 </div>
 
