@@ -1,16 +1,16 @@
 {
   "release": {
-    "commit_message": "Upstream update: alpinevpn-b4dc175 => alpinevpn-9c717da",
-    "commit_sha": "329a2b1a8f9fbba4553f1bec3ce02428e495cd58",
+    "commit_message": "Upstream update: alpinevpn-4dcfd96 => alpinevpn-213d573",
+    "commit_sha": "27a3ed8f360a398d22f651b75a12a8ceb2bc1dae",
     "description": "Releases",
     "hide": false,
-    "last_updated": "2026-01-11T16:17:05.000Z",
-    "last_updated_url": "https://github.com/hotio/caddy/actions/runs/20898157695",
+    "last_updated": "2026-01-12T07:21:33.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/20911149983",
+    "latest": true,
     "tags": [
-      "latest",
       "release",
       "release-2.10.2",
-      "release-329a2b1",
+      "release-27a3ed8",
       "release-v2",
       "release-v2.10",
       "release-v2.10.2"

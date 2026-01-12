@@ -1,13 +1,19 @@
 ---
 hide:
   - toc
-title: hotio/sabnzbd
+title: engels74/sabnzbd
 ---
 
-[:octicons-mark-github-16: GitHub](https://github.com/hotio/sabnzbd){ class="header-links" target="_blank" rel="noopener" }  
-[:octicons-container-16: ghcr.io](https://github.com/orgs/hotio/packages/container/package/sabnzbd){ class="header-links" target="_blank" rel="noopener" }  
+[:octicons-mark-github-16: GitHub](https://github.com/engels74/sabnzbd){ class="header-links" target="_blank" rel="noopener" }
+[:octicons-container-16: ghcr.io](https://github.com/orgs/engels74/packages/container/package/sabnzbd){ class="header-links" target="_blank" rel="noopener" }
 
-[:octicons-link-16: Upstream Project](https://github.com/sabnzbd/sabnzbd){ class="header-links" target="_blank" rel="noopener" }  
+[:octicons-link-16: Upstream Project](https://sabnzbd.org){ class="header-links" target="_blank" rel="noopener" }
+
+<div class="image-logo"><img src="/img/image-logos/sabnzbd.svg" alt="logo"></div>
+
+!!! question "What is this?"
+
+    This is a fork of Hotio's [SABnzbd](https://hotio.dev/containers/sabnzbd) Docker image, that includes ffprobe, at `/app/bin/ffprobe`. Useful for scripts.
 
 <div id="tags-table">
   <table>
@@ -20,10 +26,8 @@ title: hotio/sabnzbd
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div id="tag19164" onclick="CopyToClipboard('tag19164');return false;" class="tag-decoration">nightly</div><div id="tag28727" onclick="CopyToClipboard('tag28727');return false;" class="tag-decoration">nightly-c7b494e</div><div id="tag25518" onclick="CopyToClipboard('tag25518');return false;" class="tag-decoration">nightly-d21a1119932896c1f7fea1b804e99c70f05dbd19</div></td><td>Every commit to develop</td><td><a href="https://github.com/hotio/sabnzbd/commit/c7b494e7ebdd478146be1b276f575fb6ba28b642" target="_blank">Version update: 3e7dcce3657f92f09b5f1ea80a7c942d5d855b05 => d21a1119932896c1f7fea1b804e99c70f05dbd19</a></td><td><a href="https://github.com/hotio/sabnzbd/actions/runs/20923044104" target="_blank">2026-01-12 14:31:39</a></td></tr>
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag12663" onclick="CopyToClipboard('tag12663');return false;" class="tag-decoration">release</div><div id="tag16127" onclick="CopyToClipboard('tag16127');return false;" class="tag-decoration">release-6c0f6de</div><div id="tag29667" onclick="CopyToClipboard('tag29667');return false;" class="tag-decoration">release-4.5.5</div><div id="tag22024" onclick="CopyToClipboard('tag22024');return false;" class="tag-decoration">release-v4</div><div id="tag32402" onclick="CopyToClipboard('tag32402');return false;" class="tag-decoration">release-v4.5</div><div id="tag22904" onclick="CopyToClipboard('tag22904');return false;" class="tag-decoration">release-v4.5.5</div></td><td>Releases</td><td><a href="https://github.com/hotio/sabnzbd/commit/6c0f6de9ef0201001b08f3e741aa08c2e2c779ee" target="_blank">Upstream update: alpinevpn-b4dc175 => alpinevpn-9c717da</a></td><td><a href="https://github.com/hotio/sabnzbd/actions/runs/20898165839" target="_blank">2026-01-11 16:17:45</a></td></tr>
-<tr><td><div id="tag18424" onclick="CopyToClipboard('tag18424');return false;" class="tag-decoration">testing</div><div id="tag18345" onclick="CopyToClipboard('tag18345');return false;" class="tag-decoration">testing-1fb9b04</div><div id="tag20349" onclick="CopyToClipboard('tag20349');return false;" class="tag-decoration">testing-4.6.0Beta2</div></td><td>Pre-releases</td><td><a href="https://github.com/hotio/sabnzbd/commit/1fb9b04462443b96fab6df0407ac98e2a1acdafd" target="_blank">Upstream update: alpinevpn-b4dc175 => alpinevpn-9c717da</a></td><td><a href="https://github.com/hotio/sabnzbd/actions/runs/20898166217" target="_blank">2026-01-11 16:17:46</a></td></tr>
-</tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag7001" onclick="CopyToClipboard('tag7001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/sabnzbd/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/sabnzbd/actions" target="_blank">View builds</a></td></tr>
+    </tbody>
   </table>
 </div>
 
@@ -33,20 +37,18 @@ title: hotio/sabnzbd
 
     ```shell linenums="1"
     docker run --rm \
-        --name="sabnzbd" \
+        --name sabnzbd \
         -p 8080:8080 \
         -e PUID=1000 \
         -e PGID=1000 \
         -e UMASK=002 \
-        -e WEBUI_PORTS="8080/tcp" \ #(3)!
+        -e WEBUI_PORTS="8080/tcp,8080/udp" \
         -e ARGS="" \
         -e TZ="Etc/UTC" \
         -v /<host_folder_config>:/config \
         -v /<host_folder_data>:/data \
-        ghcr.io/hotio/sabnzbd
+        ghcr.io/engels74/sabnzbd
     ```
-
-    --8<-- "includes/annotations.md"
 
 === "compose"
 
@@ -54,7 +56,7 @@ title: hotio/sabnzbd
     services:
       sabnzbd:
         container_name: sabnzbd
-        image: ghcr.io/hotio/sabnzbd
+        image: ghcr.io/engels74/sabnzbd
         ports:
           - "8080:8080"
         environment:
@@ -62,13 +64,11 @@ title: hotio/sabnzbd
           - PGID=1000
           - UMASK=002
           - TZ=Etc/UTC
-          - WEBUI_PORTS=8080/tcp #(3)!
+          - WEBUI_PORTS=8080/tcp,8080/udp
           - ARGS
         volumes:
           - /<host_folder_config>:/config
           - /<host_folder_data>:/data
     ```
-
-    --8<-- "includes/annotations.md"
 
 --8<-- "includes/wireguard.md"
