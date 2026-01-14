@@ -1,16 +1,16 @@
 {
   "nightly": {
-    "commit_message": "Upstream update: alpinevpn-dc8231b => alpinevpn-897a0b9",
-    "commit_sha": "2db8556233f0cf417b12b1c18095e684529f23c6",
+    "commit_message": "Standardize to hotio naming convention\n\n- Rename flood_version to version_flood\n- Update Dockerfile ARG names accordingly\n- Remove UDP ports from WEBUI_PORTS (TCP only)",
+    "commit_sha": "d1a01975ce145df3b88aee280c2e71752d38cd54",
     "description": "nightly",
     "hide": false,
-    "last_updated": "2026-01-14T22:07:08.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21011593619",
+    "last_updated": "2026-01-14T22:12:57.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21011748851",
     "latest": false,
     "tags": [
       "",
       "nightly",
-      "nightly-2db8556",
+      "nightly-d1a0197",
       "nightly-5.1.4--20486217775",
       "nightly-v5",
       "nightly-v5.1",
