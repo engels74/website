@@ -18,17 +18,17 @@
     ]
   },
   "release": {
-    "commit_message": "Upstream update: alpinevpn-dc8231b => alpinevpn-897a0b9",
-    "commit_sha": "390ecdf453313c252f5bf370f1634710a93298a3",
+    "commit_message": "Standardize to hotio naming convention\n\n- Rename flood_version to version_flood\n- Update Dockerfile ARG names accordingly\n- Remove UDP ports from WEBUI_PORTS (TCP only)",
+    "commit_sha": "2a6e76e27ae8ae8c34a73622fcfcdca653941a1e",
     "description": "Releases",
     "hide": false,
-    "last_updated": "2026-01-14T22:07:09.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21011593704",
+    "last_updated": "2026-01-14T22:12:14.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21011729703",
     "latest": true,
     "tags": [
       "latest",
       "release",
-      "release-390ecdf",
+      "release-2a6e76e",
       "release-5.1.4--4.11.0",
       "release-v5",
       "release-v5.1",
