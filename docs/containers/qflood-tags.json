@@ -18,17 +18,17 @@
     ]
   },
   "release": {
-    "commit_message": "Standardize to hotio naming convention\n\n- Rename flood_version to version_flood\n- Update Dockerfile ARG names accordingly\n- Remove UDP ports from WEBUI_PORTS (TCP only)",
-    "commit_sha": "2a6e76e27ae8ae8c34a73622fcfcdca653941a1e",
+    "commit_message": "refactor: align with upstream hotio patterns\n\n- Rewrite forwarded_port_update_app to restart-based approach\n- Add VPN port forwarding wait logic to service-qbittorrent\n- Remove default qBittorrent.conf (qBittorrent handles internally)\n- Use bash-functions and log_inf for consistent logging\n- Use cleaner ${LIBTORRENT//v/} parameter expansion",
+    "commit_sha": "6d6386588cf5962594df3f3da0c5b6936e806a13",
     "description": "Releases",
     "hide": false,
-    "last_updated": "2026-01-14T22:12:14.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21011729703",
+    "last_updated": "2026-01-15T09:31:54.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21026381983",
     "latest": true,
     "tags": [
       "latest",
       "release",
-      "release-2a6e76e",
+      "release-6d63865",
       "release-5.1.4--4.11.0",
       "release-v5",
       "release-v5.1",
