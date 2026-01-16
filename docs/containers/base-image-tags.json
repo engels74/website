@@ -18,17 +18,17 @@
     ]
   },
   "noblevpn": {
-    "commit_message": "Upstream digest update",
-    "commit_sha": "a35ffb0a73170095d6640b48e7667d163faf0cf7",
+    "commit_message": "Sync with upstream (hotio/base@noblevpn) and apply custom updates",
+    "commit_sha": "4abce7ab890b9cede5328b558aac696181d765ff",
     "description": "Ubuntu 24.04",
     "hide": false,
-    "last_updated": "2026-01-16T01:09:12.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/21052047636",
+    "last_updated": "2026-01-16T16:16:54.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/21073105368",
     "latest": false,
     "tags": [
       "",
       "noblevpn",
-      "noblevpn-a35ffb0",
+      "noblevpn-4abce7a",
       "",
       "",
       "",
