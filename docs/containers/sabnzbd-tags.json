@@ -1,16 +1,16 @@
 {
   "nightly": {
-    "commit_message": "Standardize to hotio naming convention\n\n- Rename par2turbo_version to version_par2turbo\n- Update Dockerfile ARG names accordingly",
-    "commit_sha": "1760ef4cf342f170438e7bbc05c1249819450ac9",
+    "commit_message": "Upstream update: alpinevpn-897a0b9 => alpinevpn-c74319d",
+    "commit_sha": "abc8b20b7359af8f04b176afe36ebad128440694",
     "description": "Every commit to develop",
     "hide": false,
-    "last_updated": "2026-01-14T22:10:55.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/21011696239",
+    "last_updated": "2026-01-16T17:19:28.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/21074855419",
     "latest": false,
     "tags": [
       "",
       "nightly",
-      "nightly-1760ef4",
+      "nightly-abc8b20",
       "nightly-df1c0915d07982546e282b2b52354a49cde993ba",
       "",
       "",
