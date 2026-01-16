@@ -1,16 +1,16 @@
 {
   "nightly": {
-    "commit_message": "Upstream update: alpinevpn-dc8231b => alpinevpn-897a0b9",
-    "commit_sha": "8398c24384673db5752e1d2a81832c0e884a03b5",
+    "commit_message": "Upstream update: alpinevpn-897a0b9 => alpinevpn-c74319d",
+    "commit_sha": "66eb2868ab53f27a15b5d8cd77eb168a873b62c6",
     "description": "Every commit to develop",
     "hide": false,
-    "last_updated": "2026-01-14T22:07:14.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/21011595677",
+    "last_updated": "2026-01-16T16:20:05.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/21073194279",
     "latest": false,
     "tags": [
       "",
       "nightly",
-      "nightly-8398c24",
+      "nightly-66eb286",
       "nightly-87784dd6255bbf3da172777d78608a038965a542",
       "",
       "",
