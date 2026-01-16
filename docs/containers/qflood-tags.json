@@ -18,17 +18,17 @@
     ]
   },
   "release": {
-    "commit_message": "refactor: align with upstream hotio patterns\n\n- Rewrite forwarded_port_update_app to restart-based approach\n- Add VPN port forwarding wait logic to service-qbittorrent\n- Remove default qBittorrent.conf (qBittorrent handles internally)\n- Use bash-functions and log_inf for consistent logging\n- Use cleaner ${LIBTORRENT//v/} parameter expansion",
-    "commit_sha": "6d6386588cf5962594df3f3da0c5b6936e806a13",
+    "commit_message": "Upstream update: alpinevpn-897a0b9 => alpinevpn-c74319d",
+    "commit_sha": "903a65ac94e04ba16e37dc39da84a9d2b5179427",
     "description": "Releases",
     "hide": false,
-    "last_updated": "2026-01-15T09:31:54.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21026381983",
+    "last_updated": "2026-01-16T17:19:26.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21074854422",
     "latest": true,
     "tags": [
       "latest",
       "release",
-      "release-6d63865",
+      "release-903a65a",
       "release-5.1.4--4.11.0",
       "release-v5",
       "release-v5.1",
