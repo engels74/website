@@ -1,16 +1,16 @@
 {
   "nightly": {
-    "commit_message": "Upstream update: alpinevpn-897a0b9 => alpinevpn-c74319d",
-    "commit_sha": "abc8b20b7359af8f04b176afe36ebad128440694",
+    "commit_message": "Upstream update: alpinevpn-c74319d => alpinevpn-0a5023e",
+    "commit_sha": "6b76cb9c516991268f36eb9d12e88e59a229a596",
     "description": "Every commit to develop",
     "hide": false,
-    "last_updated": "2026-01-16T17:19:28.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/21074855419",
+    "last_updated": "2026-01-17T16:15:25.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/21097248300",
     "latest": false,
     "tags": [
       "",
       "nightly",
-      "nightly-abc8b20",
+      "nightly-6b76cb9",
       "nightly-df1c0915d07982546e282b2b52354a49cde993ba",
       "",
       "",
