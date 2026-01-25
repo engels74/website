@@ -1,0 +1,34 @@
+{
+  "alpinevpn": {
+    "commit_message": "Sync with upstream (hotio/base@alpinevpn) and apply custom updates",
+    "commit_sha": "8258b00cdb86950594e2f6bf725459b94e90fdf0",
+    "description": "Alpine 3.22",
+    "last_updated": "2026-01-25T15:25:08.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/21334950947",
+    "tags": [
+      "",
+      "alpinevpn",
+      "alpinevpn-8258b00",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "noblevpn": {
+    "commit_message": "Sync with upstream (hotio/base@noblevpn) and apply custom updates",
+    "commit_sha": "2438c8d67ee2645aab646e87911d06c34a84553e",
+    "description": "Ubuntu 24.04",
+    "last_updated": "2026-01-25T15:25:09.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/21334951047",
+    "tags": [
+      "",
+      "noblevpn",
+      "noblevpn-2438c8d",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}
