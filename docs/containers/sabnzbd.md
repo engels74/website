@@ -26,7 +26,7 @@ title: engels74/sabnzbd
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div id="tag2680" onclick="CopyToClipboard('tag2680');return false;" class="tag-decoration">nightly</div><div id="tag3491" onclick="CopyToClipboard('tag3491');return false;" class="tag-decoration">nightly-76d22a6</div><div id="tag27236" onclick="CopyToClipboard('tag27236');return false;" class="tag-decoration">nightly-f4b73cf9ec210338d52842a91f6d43fcb2658edd</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/sabnzbd/commit/76d22a6ef17ad142c17b27e930b00f27ad768971" target="_blank">Version update: ddc84542eb78a8021392e66c1554ee0f38a4cc96 => f4b73cf9ec210338d52842a91f6d43fcb2658edd</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/21354210708" target="_blank">2026-01-26 10:21:55</a></td></tr>
+<tr><td><div id="tag18668" onclick="CopyToClipboard('tag18668');return false;" class="tag-decoration">nightly</div><div id="tag31756" onclick="CopyToClipboard('tag31756');return false;" class="tag-decoration">nightly-4790a4d</div><div id="tag23508" onclick="CopyToClipboard('tag23508');return false;" class="tag-decoration">nightly-a4de70496713ea705ee275b3c75df1b499b90dbb</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/sabnzbd/commit/4790a4d9d9650609abe2cfb51caffd75828dec1f" target="_blank">Version update: f4b73cf9ec210338d52842a91f6d43fcb2658edd => a4de70496713ea705ee275b3c75df1b499b90dbb</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/21369318348" target="_blank">2026-01-26 18:32:38</a></td></tr>
 </tbody>
   </table>
 </div>
