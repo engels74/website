@@ -26,8 +26,8 @@ title: engels74/sabnzbd
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag7001" onclick="CopyToClipboard('tag7001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/sabnzbd/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/sabnzbd/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div id="tag23118" onclick="CopyToClipboard('tag23118');return false;" class="tag-decoration">nightly</div><div id="tag18964" onclick="CopyToClipboard('tag18964');return false;" class="tag-decoration">nightly-c2fdcaa</div><div id="tag26793" onclick="CopyToClipboard('tag26793');return false;" class="tag-decoration">nightly-ddc84542eb78a8021392e66c1554ee0f38a4cc96</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/sabnzbd/commit/c2fdcaa54d7746ebc0162b9fe400f856b336b5ea" target="_blank">Version update: 43a9678f0729a034c81c6fbb758adc1228b14e55 => ddc84542eb78a8021392e66c1554ee0f38a4cc96</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/21353433019" target="_blank">2026-01-26 09:56:09</a></td></tr>
+</tbody>
   </table>
 </div>
 
