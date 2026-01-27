@@ -26,7 +26,7 @@ title: engels74/sabnzbd
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div id="tag18668" onclick="CopyToClipboard('tag18668');return false;" class="tag-decoration">nightly</div><div id="tag31756" onclick="CopyToClipboard('tag31756');return false;" class="tag-decoration">nightly-4790a4d</div><div id="tag23508" onclick="CopyToClipboard('tag23508');return false;" class="tag-decoration">nightly-a4de70496713ea705ee275b3c75df1b499b90dbb</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/sabnzbd/commit/4790a4d9d9650609abe2cfb51caffd75828dec1f" target="_blank">Version update: f4b73cf9ec210338d52842a91f6d43fcb2658edd => a4de70496713ea705ee275b3c75df1b499b90dbb</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/21369318348" target="_blank">2026-01-26 18:32:38</a></td></tr>
+<tr><td><div id="tag32005" onclick="CopyToClipboard('tag32005');return false;" class="tag-decoration">nightly</div><div id="tag1149" onclick="CopyToClipboard('tag1149');return false;" class="tag-decoration">nightly-058a52b</div><div id="tag20900" onclick="CopyToClipboard('tag20900');return false;" class="tag-decoration">nightly-a4de70496713ea705ee275b3c75df1b499b90dbb</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/sabnzbd/commit/058a52b33681e5d336bf2f623772e0845e1362b9" target="_blank">Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/21389829077" target="_blank">2026-01-27 08:23:31</a></td></tr>
 </tbody>
   </table>
 </div>
