@@ -26,8 +26,8 @@ title: engels74/caddy
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag2001" onclick="CopyToClipboard('tag2001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/caddy/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/caddy/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag19590" onclick="CopyToClipboard('tag19590');return false;" class="tag-decoration">release</div><div id="tag27738" onclick="CopyToClipboard('tag27738');return false;" class="tag-decoration">release-09bf494</div><div id="tag5733" onclick="CopyToClipboard('tag5733');return false;" class="tag-decoration">release-2.10.2</div><div id="tag26604" onclick="CopyToClipboard('tag26604');return false;" class="tag-decoration">release-v2</div><div id="tag11528" onclick="CopyToClipboard('tag11528');return false;" class="tag-decoration">release-v2.10</div><div id="tag4902" onclick="CopyToClipboard('tag4902');return false;" class="tag-decoration">release-v2.10.2</div></td><td>Releases</td><td><a href="https://github.com/engels74/caddy/commit/09bf49408321f9f21d98e68126cc2fdfa2647890" target="_blank">Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd</a></td><td><a href="https://github.com/engels74/caddy/actions/runs/21389825189" target="_blank">2026-01-27 08:23:22</a></td></tr>
+</tbody>
   </table>
 </div>
 
