@@ -30,9 +30,8 @@ title: engels74/qflood
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag6001" onclick="CopyToClipboard('tag6001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/qflood/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">View builds</a></td></tr>
-<tr><td><div id="tag6002" onclick="CopyToClipboard('tag6002');return false;" class="tag-decoration">nightly</div></td><td>Nightly builds</td><td><a href="https://github.com/engels74/qflood/commits/nightly" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag20466" onclick="CopyToClipboard('tag20466');return false;" class="tag-decoration">release</div><div id="tag17151" onclick="CopyToClipboard('tag17151');return false;" class="tag-decoration">release-fd3e0c0</div><div id="tag9502" onclick="CopyToClipboard('tag9502');return false;" class="tag-decoration">release-5.1.4--4.11.0</div><div id="tag29737" onclick="CopyToClipboard('tag29737');return false;" class="tag-decoration">release-v5</div><div id="tag8901" onclick="CopyToClipboard('tag8901');return false;" class="tag-decoration">release-v5.1</div><div id="tag7639" onclick="CopyToClipboard('tag7639');return false;" class="tag-decoration">release-v5.1.4</div></td><td>Releases</td><td><a href="https://github.com/engels74/qflood/commit/fd3e0c096d7544679ad6455cb14be18dc016b165" target="_blank">Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd</a></td><td><a href="https://github.com/engels74/qflood/actions/runs/21389828459" target="_blank">2026-01-27 08:23:30</a></td></tr>
+</tbody>
   </table>
 </div>
 
