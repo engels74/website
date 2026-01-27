@@ -30,8 +30,8 @@ title: engels74/qbittorrent
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag5001" onclick="CopyToClipboard('tag5001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/qbittorrent/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qbittorrent/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag29578" onclick="CopyToClipboard('tag29578');return false;" class="tag-decoration">release</div><div id="tag9378" onclick="CopyToClipboard('tag9378');return false;" class="tag-decoration">release-9ed7ee8</div><div id="tag13966" onclick="CopyToClipboard('tag13966');return false;" class="tag-decoration">release-5.1.4</div><div id="tag25497" onclick="CopyToClipboard('tag25497');return false;" class="tag-decoration">release-v5</div><div id="tag18975" onclick="CopyToClipboard('tag18975');return false;" class="tag-decoration">release-v5.1</div><div id="tag1979" onclick="CopyToClipboard('tag1979');return false;" class="tag-decoration">release-v5.1.4</div></td><td>Releases</td><td><a href="https://github.com/engels74/qbittorrent/commit/9ed7ee873866a95375b6740ba0dacae629967737" target="_blank">Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd</a></td><td><a href="https://github.com/engels74/qbittorrent/actions/runs/21389827572" target="_blank">2026-01-27 08:23:27</a></td></tr>
+</tbody>
   </table>
 </div>
 
