@@ -14,5 +14,21 @@
       "",
       ""
     ]
+  },
+  "testing": {
+    "commit_message": "Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd",
+    "commit_sha": "0570f77391285ec4a93a027d57253635e4b45084",
+    "description": "Pre-releases",
+    "last_updated": "2026-01-27T08:23:33.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/21389830108",
+    "tags": [
+      "",
+      "testing",
+      "testing-0570f77",
+      "testing-4.5.5",
+      "testing-v4",
+      "testing-v4.5",
+      "testing-v4.5.5"
+    ]
   }
 }
