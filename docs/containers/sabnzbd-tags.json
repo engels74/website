@@ -15,6 +15,22 @@
       ""
     ]
   },
+  "release": {
+    "commit_message": "Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd",
+    "commit_sha": "fe2b475ca1dfab2e96ed4e5a1d8eaa7dfe822c8b",
+    "description": "Releases",
+    "last_updated": "2026-01-27T08:23:32.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/21389829582",
+    "tags": [
+      "latest",
+      "release",
+      "release-fe2b475",
+      "release-4.5.5",
+      "release-v4",
+      "release-v4.5",
+      "release-v4.5.5"
+    ]
+  },
   "testing": {
     "commit_message": "Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd",
     "commit_sha": "0570f77391285ec4a93a027d57253635e4b45084",
