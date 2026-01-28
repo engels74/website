@@ -1,14 +1,14 @@
 {
   "alpinevpn": {
-    "commit_message": "Sync with upstream (hotio/base@alpinevpn) and apply custom updates",
-    "commit_sha": "fe778ddc63d3845796ea871b39bfa509bf87697b",
+    "commit_message": "Upstream digest update",
+    "commit_sha": "a8c5f31768b53847904a93818a35f58c134a05e1",
     "description": "Alpine 3.22",
-    "last_updated": "2026-01-27T07:53:14.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/21389023274",
+    "last_updated": "2026-01-28T04:38:43.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/21425256205",
     "tags": [
       "",
       "alpinevpn",
-      "alpinevpn-fe778dd",
+      "alpinevpn-a8c5f31",
       "",
       "",
       "",
