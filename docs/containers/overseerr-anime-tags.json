@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Upstream update: alpinevpn-8258b00 => alpinevpn-fe778dd",
-    "commit_sha": "1710aeb25ade342be8a7f0908e4a3d8b081142c2",
+    "commit_message": "Upstream update: alpinevpn-fe778dd => alpinevpn-a8c5f31",
+    "commit_sha": "5d03db0c995f58f7c785ce30e65aa291eeab9fd2",
     "description": "Releases",
-    "last_updated": "2026-01-27T08:23:26.000Z",
-    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/21389826759",
+    "last_updated": "2026-01-28T05:22:41.000Z",
+    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/21426193388",
     "tags": [
       "latest",
       "release",
-      "release-1710aeb",
+      "release-5d03db0",
       "release-1.34.0-anime",
       "release-v1",
       "release-v1.34",
