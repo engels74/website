@@ -1,4 +1,20 @@
 {
+  "nightly": {
+    "commit_message": "Fix flood nightly download after jesec/flood artifact change\n\njesec/flood now publishes a single `pkg-binaries.zip` artifact instead\nof per-architecture zips. Selectively extract only the needed binary.",
+    "commit_sha": "3cd0a09b493af6c59aa17d060e6260d22b9868dc",
+    "description": "nightly",
+    "last_updated": "2026-02-08T00:30:21.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/21789408167",
+    "tags": [
+      "",
+      "nightly",
+      "nightly-3cd0a09",
+      "nightly-5.1.4--21786824633",
+      "nightly-v5",
+      "nightly-v5.1",
+      "nightly-v5.1.4"
+    ]
+  },
   "release": {
     "commit_message": "Version update: 5.1.4--4.12.2 => 5.1.4--4.12.5",
     "commit_sha": "aa9ce8b8f3ca55617d43c176b22db60ac672de14",
