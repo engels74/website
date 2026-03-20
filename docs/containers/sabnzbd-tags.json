@@ -1,15 +1,15 @@
 {
   "nightly": {
-    "commit_message": "Version update: 89b3b97093390ec29cb89ec9fabeee25cb615dc2 => 449157e0fb9d8996d3b4378efee2503e7475cdb4",
-    "commit_sha": "92b44cfde9246d1c8146a4652f6755a8857eefa9",
+    "commit_message": "Version update: 449157e0fb9d8996d3b4378efee2503e7475cdb4 => 14e00b366ec9e110234d82b6425af96deb7bbf8d",
+    "commit_sha": "64092df051a1f7c97bf5b6479d53aac5615c6b79",
     "description": "Every commit to develop",
-    "last_updated": "2026-03-19T21:48:06.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/23318516416",
+    "last_updated": "2026-03-20T22:53:38.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/23365797259",
     "tags": [
       "",
       "nightly",
-      "nightly-92b44cf",
-      "nightly-449157e0fb9d8996d3b4378efee2503e7475cdb4",
+      "nightly-64092df",
+      "nightly-14e00b366ec9e110234d82b6425af96deb7bbf8d",
       "",
       "",
       ""
