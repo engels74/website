@@ -16,15 +16,15 @@
     ]
   },
   "release": {
-    "commit_message": "Version update: 5.1.4--4.13.8 => 5.1.4--4.13.9",
-    "commit_sha": "5785c6ab7b6fb38614216df43db6f24f7b44c2be",
+    "commit_message": "Upstream update: alpinevpn-167fa4e => alpinevpn-4699fa7",
+    "commit_sha": "30caf5585652825af900a53055a4cb1bca8b8b45",
     "description": "Releases",
-    "last_updated": "2026-04-09T18:00:19.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/24205421141",
+    "last_updated": "2026-04-17T06:53:43.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/24552119210",
     "tags": [
       "latest",
       "release",
-      "release-5785c6a",
+      "release-30caf55",
       "release-5.1.4--4.13.9",
       "release-v5",
       "release-v5.1",
