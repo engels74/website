@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Upstream update: alpinevpn-167fa4e => alpinevpn-4699fa7",
-    "commit_sha": "97c8e6c9e2bb98fe02e4d4116223acdcf4842716",
+    "commit_message": "Upstream update: alpinevpn-4699fa7 => alpinevpn-f4e73db",
+    "commit_sha": "703a6c7d34ca748c6c87d444671cd87d193a0871",
     "description": "Releases",
-    "last_updated": "2026-04-17T06:53:31.000Z",
-    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/24552112103",
+    "last_updated": "2026-05-09T15:42:53.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/25605036366",
     "tags": [
       "latest",
       "release",
-      "release-97c8e6c",
+      "release-703a6c7",
       "release-2.11.2",
       "release-v2",
       "release-v2.11",
