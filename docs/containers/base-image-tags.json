@@ -1,14 +1,14 @@
 {
   "alpinevpn": {
-    "commit_message": "Upstream digest update",
-    "commit_sha": "4699fa7ab182b49593e9c7efb8f7deba7135338b",
+    "commit_message": "Version update",
+    "commit_sha": "f4e73db0a190ae3ca28a89d1b2a4552ff40755c6",
     "description": "Alpine 3.22",
-    "last_updated": "2026-04-17T04:44:22.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/24548120041",
+    "last_updated": "2026-05-09T15:11:00.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/25604380618",
     "tags": [
       "",
       "alpinevpn",
-      "alpinevpn-4699fa7",
+      "alpinevpn-f4e73db",
       "",
       "",
       "",
