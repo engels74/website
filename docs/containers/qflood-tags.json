@@ -1,14 +1,14 @@
 {
   "nightly": {
     "commit_message": "Upstream or Packages update",
-    "commit_sha": "eacb61a51dc6aa66637ba930f30f1536e6475802",
+    "commit_sha": "8b3c088ebe152a2c75fdaec997d9bd1598b12832",
     "description": "nightly",
-    "last_updated": "2026-05-12T04:44:23.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/25713902501",
+    "last_updated": "2026-05-12T07:44:35.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/25720776140",
     "tags": [
       "",
       "nightly",
-      "nightly-eacb61a",
+      "nightly-8b3c088",
       "nightly-5.2.0--25664306992",
       "nightly-v5",
       "nightly-v5.2",
