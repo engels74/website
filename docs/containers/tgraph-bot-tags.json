@@ -1,14 +1,14 @@
 {
   "nightly": {
     "commit_message": "Upstream or Packages update",
-    "commit_sha": "5e0c78c6a6fc640244e09e1520cee5f4cfae616a",
+    "commit_sha": "444c20b3236626852306eac97e7ca7674d65f60a",
     "description": "Every commit to develop",
-    "last_updated": "2026-05-12T04:44:51.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/25713917739",
+    "last_updated": "2026-05-12T07:45:22.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/25720812116",
     "tags": [
       "",
       "nightly",
-      "nightly-5e0c78c",
+      "nightly-444c20b",
       "nightly-87784dd6255bbf3da172777d78608a038965a542",
       "",
       "",
