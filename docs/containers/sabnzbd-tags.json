@@ -1,14 +1,14 @@
 {
   "nightly": {
     "commit_message": "Upstream or Packages update",
-    "commit_sha": "73dbc9ba68de78a492b53af47e7054f3a6697655",
+    "commit_sha": "49651dec4d7917c47881dd07cba8ffa776ad872d",
     "description": "Every commit to develop",
-    "last_updated": "2026-05-12T07:44:55.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25720790824",
+    "last_updated": "2026-05-12T10:32:10.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25728852097",
     "tags": [
       "",
       "nightly",
-      "nightly-73dbc9b",
+      "nightly-49651de",
       "nightly-90798e5e4dcbd2e45bc0aa36f95de482e08b8cea",
       "",
       "",
