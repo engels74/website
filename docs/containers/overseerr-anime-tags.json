@@ -1,14 +1,14 @@
 {
   "release": {
     "commit_message": "Upstream or Packages update",
-    "commit_sha": "74a7ef65ae5786805fca8926a9c825f2dae8400c",
+    "commit_sha": "163f5a1994920f829a2b3af081ab98c3082cd7df",
     "description": "Releases",
-    "last_updated": "2026-05-12T04:44:16.000Z",
-    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/25713899114",
+    "last_updated": "2026-05-12T07:44:13.000Z",
+    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/25720759624",
     "tags": [
       "latest",
       "release",
-      "release-74a7ef6",
+      "release-163f5a1",
       "release-1.34.0-anime",
       "release-v1",
       "release-v1.34",
