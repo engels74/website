@@ -1,14 +1,14 @@
 {
   "release": {
     "commit_message": "Upstream or Packages update",
-    "commit_sha": "c759eda3ccf003d0795e325becec9c27b9c75716",
+    "commit_sha": "98098f01640a5791ca08c0eef7a27eabe5999700",
     "description": "Releases",
-    "last_updated": "2026-05-12T04:42:41.000Z",
-    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/25713848181",
+    "last_updated": "2026-05-12T07:42:16.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/25720672755",
     "tags": [
       "latest",
       "release",
-      "release-c759eda",
+      "release-98098f0",
       "release-2.11.2",
       "release-v2",
       "release-v2.11",
