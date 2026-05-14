@@ -32,15 +32,15 @@
     ]
   },
   "testing": {
-    "commit_message": "Version update: 5.0.1 => 5.0.2",
-    "commit_sha": "896b7d58cabe533f15002a045bf1e701fc43e434",
+    "commit_message": "ci: point at engels74/base-image@workflows",
+    "commit_sha": "f532cf0cd624e3efb48b39475d862962da899333",
     "description": "Pre-releases",
-    "last_updated": "2026-05-14T19:04:21.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25879715545",
+    "last_updated": "2026-05-14T19:43:23.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25881647484",
     "tags": [
       "",
       "testing",
-      "testing-896b7d5",
+      "testing-f532cf0",
       "testing-5.0.2",
       "testing-v5",
       "testing-v5.0",
