@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Version update: 5.2.0 => 5.2.0",
-    "commit_sha": "422cc26409227616a0e418aa36471b935a8aadfa",
+    "commit_message": "ci: point at engels74/base-image@workflows",
+    "commit_sha": "01835c7b6f92e0bf67781da7ac598882eba2d810",
     "description": "Releases",
-    "last_updated": "2026-05-13T10:41:27.000Z",
-    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/25794043156",
+    "last_updated": "2026-05-14T19:43:10.000Z",
+    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/25881612310",
     "tags": [
       "latest",
       "release",
-      "release-422cc26",
+      "release-01835c7",
       "release-5.2.0",
       "release-v5",
       "release-v5.2",
