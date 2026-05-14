@@ -1,14 +1,14 @@
 {
   "nightly": {
-    "commit_message": "Upstream or Packages update",
-    "commit_sha": "444c20b3236626852306eac97e7ca7674d65f60a",
+    "commit_message": "ci: point at engels74/base-image@workflows",
+    "commit_sha": "e6f4017a21ee33d63a99e81cb427c9fabd5a122f",
     "description": "Every commit to develop",
-    "last_updated": "2026-05-12T07:45:22.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/25720812116",
+    "last_updated": "2026-05-14T19:43:27.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/25881627104",
     "tags": [
       "",
       "nightly",
-      "nightly-444c20b",
+      "nightly-e6f4017",
       "nightly-87784dd6255bbf3da172777d78608a038965a542",
       "",
       "",
