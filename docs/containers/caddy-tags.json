@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Version update: 2.11.2 => 2.11.3",
-    "commit_sha": "05e140e9c03b945b39d114efeaa2c4512ea0fa64",
+    "commit_message": "ci: point at engels74/base-image@workflows",
+    "commit_sha": "e31e7cb2d6c7ea690d01a54fe54451ca8d6f66d9",
     "description": "Releases",
-    "last_updated": "2026-05-12T17:30:10.000Z",
-    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/25751118866",
+    "last_updated": "2026-05-14T19:42:52.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/25881600391",
     "tags": [
       "latest",
       "release",
-      "release-05e140e",
+      "release-e31e7cb",
       "release-2.11.3",
       "release-v2",
       "release-v2.11",
