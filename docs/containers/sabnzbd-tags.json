@@ -17,14 +17,14 @@
   },
   "release": {
     "commit_message": "Version, Upstream or Packages update",
-    "commit_sha": "506f918e29db918bf12ac2670a35a106be219351",
+    "commit_sha": "cb443c6f36468326b2b9d5456eba334f9c42d5c1",
     "description": "Releases",
-    "last_updated": "2026-05-15T12:57:00.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25919009383",
+    "last_updated": "2026-05-15T14:29:53.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25923352475",
     "tags": [
       "latest",
       "release",
-      "release-506f918",
+      "release-cb443c6",
       "release-5.0.2",
       "release-v5",
       "release-v5.0",
