@@ -16,16 +16,16 @@
     ]
   },
   "release": {
-    "commit_message": "ci: point at engels74/base-image@workflows",
-    "commit_sha": "fa1ee260f7ac347de293484149f0f95d547d8e6f",
+    "commit_message": "Version, Upstream or Packages update",
+    "commit_sha": "78752f910410e26897fcdbdf59031051af723fcf",
     "description": "Releases",
-    "last_updated": "2026-05-14T19:43:15.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/25881616530",
+    "last_updated": "2026-05-15T12:02:03.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/25916723805",
     "tags": [
       "latest",
       "release",
-      "release-fa1ee26",
-      "release-5.2.0--4.14.0",
+      "release-78752f9",
+      "release-5.2.0--4.14.1",
       "release-v5",
       "release-v5.2",
       "release-v5.2.0"
