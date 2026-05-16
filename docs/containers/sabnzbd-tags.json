@@ -33,14 +33,14 @@
   },
   "testing": {
     "commit_message": "Version, Upstream or Packages update",
-    "commit_sha": "2002546a0849af44134a44d3a4937423013c873a",
+    "commit_sha": "35d13c73bbf2a9df84b9f418f06997c57fd101c3",
     "description": "Pre-releases",
-    "last_updated": "2026-05-15T21:07:12.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25941444627",
+    "last_updated": "2026-05-16T15:00:05.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/25965096696",
     "tags": [
       "",
       "testing",
-      "testing-2002546",
+      "testing-35d13c7",
       "testing-5.0.3",
       "testing-v5",
       "testing-v5.0",
