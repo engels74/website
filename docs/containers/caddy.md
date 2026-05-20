@@ -26,8 +26,8 @@ title: engels74/caddy
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag2001" onclick="CopyToClipboard('tag2001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/caddy/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/caddy/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag22535" onclick="CopyToClipboard('tag22535');return false;" class="tag-decoration">release</div><div id="tag8884" onclick="CopyToClipboard('tag8884');return false;" class="tag-decoration">release-d047908</div><div id="tag14665" onclick="CopyToClipboard('tag14665');return false;" class="tag-decoration">release-2.11.3</div><div id="tag13496" onclick="CopyToClipboard('tag13496');return false;" class="tag-decoration">release-v2</div><div id="tag23256" onclick="CopyToClipboard('tag23256');return false;" class="tag-decoration">release-v2.11</div><div id="tag8806" onclick="CopyToClipboard('tag8806');return false;" class="tag-decoration">release-v2.11.3</div></td><td>Releases</td><td><a href="https://github.com/engels74/caddy/commit/d047908d71b722cef1d6b02fc4d5621068905ba4" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/caddy/actions/runs/26192223040" target="_blank">2026-05-20 21:54:35</a></td></tr>
+</tbody>
   </table>
 </div>
 
