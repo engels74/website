@@ -7,27 +7,71 @@ title: engels74/overseerr-anime
 [:octicons-mark-github-16: GitHub](https://github.com/engels74/overseerr-anime){ class="header-links" target="_blank" rel="noopener" }
 [:octicons-container-16: ghcr.io](https://github.com/orgs/engels74/packages/container/package/overseerr-anime){ class="header-links" target="_blank" rel="noopener" }
 
-[:octicons-link-16: Upstream Project](https://github.com/sct/overseerr){ class="header-links" target="_blank" rel="noopener" }
+[:octicons-link-16: Maintained Replacement](https://github.com/seerr-team/seerr){ class="header-links" target="_blank" rel="noopener" }
 
 <div class="image-logo"><img src="https://i.imgur.com/BcvImhI.png" alt="logo"></div>
 
+!!! danger "Deprecated — do not use for new installs"
+
+    **`engels74/overseerr-anime` is deprecated and will not receive further updates.**
+    It is based on an old Overseerr anime-instance pull request and may contain
+    unfixed CVEs inherited from the old Overseerr dependency stack.
+
+    Existing users should plan to migrate away from this image. Upstream
+    Overseerr and Jellyseerr have merged into the maintained
+    [Seerr](https://github.com/seerr-team/seerr){ target="_blank" rel="noopener" }
+    project, and new installs should use Seerr instead.
+
+??? info "Read more: known CVE context"
+
+    The final v1.34.0-era Overseerr Anime build contains `axios` 1.3.4. GitHub
+    advisory
+    [GHSA-fvcv-3m26-pcqx](https://github.com/axios/axios/security/advisories/GHSA-fvcv-3m26-pcqx){ target="_blank" rel="noopener" }
+    tracks **CVE-2026-40175**, an Unrestricted Cloud Metadata Exfiltration
+    vulnerability via a header injection chain. The advisory lists axios
+    `>=1.0.0` as vulnerable and `>=1.15.0` as patched. This is separate from the
+    axios package hijack incident.
+
+    Seerr patched this in
+    [v3.1.1](https://github.com/seerr-team/seerr/releases/tag/v3.1.1){ target="_blank" rel="noopener" }
+    or later. The v3.1.1 release was published on 2026-04-13. This Docker image
+    will not receive that dependency update.
+
 !!! question "What is this?"
 
-    This is a fork of Hotio's [overseerr](https://hotio.dev/containers/overseerr) Docker image, that includes the [Anime Instance PR (#3664)](https://github.com/sct/overseerr/pull/3664).
+    This was a fork of Hotio's [overseerr](https://hotio.dev/containers/overseerr){ target="_blank" rel="noopener" }
+    Docker image that bundled the historical
+    [Anime Instance PR (#3664)](https://github.com/sct/overseerr/pull/3664){ target="_blank" rel="noopener" }.
 
-    It's built using [this fork of the PR](https://github.com/engels74/overseerr-anime-source).
+    It was built using [this fork of the PR](https://github.com/engels74/overseerr-anime-source){ target="_blank" rel="noopener" }.
+    This page is kept for existing users who need to identify what they are
+    running; it is not a recommendation to deploy the image.
+
+!!! note "Migration and alternatives"
+
+    There is no exact drop-in replacement for this image today.
+
+    - **Recommended path:** migrate to the official
+      [Seerr](https://github.com/seerr-team/seerr){ target="_blank" rel="noopener" }
+      image and follow the
+      [Seerr migration guide](https://docs.seerr.dev/migration-guide/){ target="_blank" rel="noopener" }.
+    - **Closest workaround:** [Redirecterr](https://github.com/varthe/Redirecterr){ target="_blank" rel="noopener" }
+      can route requests to different Sonarr/Radarr instances, but it is
+      webhook-driven and can conflict with any existing Seerr/Overseerr webhook
+      workflow.
+    - **Future built-in option:** Seerr PR
+      [#2452](https://github.com/seerr-team/seerr/pull/2452){ target="_blank" rel="noopener" }
+      is intended to add routing-rule behavior. As of 2026-05-20, it is still
+      open as a draft and has not been merged.
 
 !!! note "Branches and Tags"
 
-    This project maintains two branches, each with its own Docker tag:
+    This project is no longer actively maintained.
 
     - **`:release` (or `:latest`)**:
-      Based on the [`feature-default-anime-instance-checkbox-release`](https://github.com/engels74/overseerr-anime-source/tree/feature-default-anime-instance-checkbox-release) branch.
-      This is the stable version, rebased from the `sct/overseerr` repository's `master` branch (official releases) with the anime instance support changes applied.
-
-???+ info "Why is this needed?"
-
-    This was made since Overseerr maintainers are [very busy](https://discord.com/channels/783137440809746482/785475251231784961/1262212831579996285), and it probably won't get merged in the near future.
+      Final archived build from the
+      [`feature-default-anime-instance-checkbox-release`](https://github.com/engels74/overseerr-anime-source/tree/feature-default-anime-instance-checkbox-release){ target="_blank" rel="noopener" }
+      branch. No future security or dependency updates are planned.
 
 <div id="tags-table">
   <table>
@@ -40,12 +84,18 @@ title: engels74/overseerr-anime
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag4001" onclick="CopyToClipboard('tag4001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions" target="_blank">View builds</a></td></tr>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag4001" onclick="CopyToClipboard('tag4001');return false;" class="tag-decoration">release</div></td><td>Final archived release</td><td><a href="https://github.com/engels74/overseerr-anime/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions" target="_blank">View builds</a></td></tr>
     </tbody>
   </table>
 </div>
 
 ## Starting the container
+
+!!! warning "Existing deployments only"
+
+    The examples below are retained for existing users who need to identify or
+    temporarily reproduce their current deployment. Do not use this image for new
+    installs; use [Seerr](https://github.com/seerr-team/seerr){ target="_blank" rel="noopener" } instead.
 
 === "cli"
 
