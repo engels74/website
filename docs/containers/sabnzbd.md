@@ -26,8 +26,8 @@ title: engels74/sabnzbd
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag7001" onclick="CopyToClipboard('tag7001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/sabnzbd/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/sabnzbd/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag13985" onclick="CopyToClipboard('tag13985');return false;" class="tag-decoration">release</div><div id="tag5802" onclick="CopyToClipboard('tag5802');return false;" class="tag-decoration">release-5151550</div><div id="tag28751" onclick="CopyToClipboard('tag28751');return false;" class="tag-decoration">release-5.0.3</div><div id="tag19559" onclick="CopyToClipboard('tag19559');return false;" class="tag-decoration">release-v5</div><div id="tag20006" onclick="CopyToClipboard('tag20006');return false;" class="tag-decoration">release-v5.0</div><div id="tag11228" onclick="CopyToClipboard('tag11228');return false;" class="tag-decoration">release-v5.0.3</div></td><td>Releases</td><td><a href="https://github.com/engels74/sabnzbd/commit/5151550479f178f84b7e3deeb61850d5f803323e" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/sabnzbd/actions/runs/26192425184" target="_blank">2026-05-20 21:59:08</a></td></tr>
+</tbody>
   </table>
 </div>
 
