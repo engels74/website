@@ -1,1 +1,18 @@
-{}
+{
+  "release": {
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "53428d68d7461c8b0d37a91e3eae1e108026d313",
+    "description": "Releases",
+    "last_updated": "2026-05-20T21:57:22.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/26192346243",
+    "tags": [
+      "latest",
+      "release",
+      "release-53428d6",
+      "release-5.2.0--4.14.2",
+      "release-v5",
+      "release-v5.2",
+      "release-v5.2.0"
+    ]
+  }
+}

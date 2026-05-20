@@ -30,9 +30,8 @@ title: engels74/qflood
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag6001" onclick="CopyToClipboard('tag6001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/qflood/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">View builds</a></td></tr>
-<tr><td><div id="tag6002" onclick="CopyToClipboard('tag6002');return false;" class="tag-decoration">nightly</div></td><td>Nightly builds</td><td><a href="https://github.com/engels74/qflood/commits/nightly" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qflood/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag23377" onclick="CopyToClipboard('tag23377');return false;" class="tag-decoration">release</div><div id="tag31474" onclick="CopyToClipboard('tag31474');return false;" class="tag-decoration">release-53428d6</div><div id="tag4982" onclick="CopyToClipboard('tag4982');return false;" class="tag-decoration">release-5.2.0--4.14.2</div><div id="tag12447" onclick="CopyToClipboard('tag12447');return false;" class="tag-decoration">release-v5</div><div id="tag18563" onclick="CopyToClipboard('tag18563');return false;" class="tag-decoration">release-v5.2</div><div id="tag28259" onclick="CopyToClipboard('tag28259');return false;" class="tag-decoration">release-v5.2.0</div></td><td>Releases</td><td><a href="https://github.com/engels74/qflood/commit/53428d68d7461c8b0d37a91e3eae1e108026d313" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/qflood/actions/runs/26192346243" target="_blank">2026-05-20 21:57:22</a></td></tr>
+</tbody>
   </table>
 </div>
 
