@@ -30,8 +30,8 @@ title: engels74/qbittorrent
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag5001" onclick="CopyToClipboard('tag5001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/qbittorrent/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/qbittorrent/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag30346" onclick="CopyToClipboard('tag30346');return false;" class="tag-decoration">release</div><div id="tag24655" onclick="CopyToClipboard('tag24655');return false;" class="tag-decoration">release-a7ab688</div><div id="tag7422" onclick="CopyToClipboard('tag7422');return false;" class="tag-decoration">release-5.2.0</div><div id="tag13206" onclick="CopyToClipboard('tag13206');return false;" class="tag-decoration">release-v5</div><div id="tag4667" onclick="CopyToClipboard('tag4667');return false;" class="tag-decoration">release-v5.2</div><div id="tag14087" onclick="CopyToClipboard('tag14087');return false;" class="tag-decoration">release-v5.2.0</div></td><td>Releases</td><td><a href="https://github.com/engels74/qbittorrent/commit/a7ab6887249425d72a2a0644572e9be6ff167678" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/qbittorrent/actions/runs/26181888051" target="_blank">2026-05-20 18:26:47</a></td></tr>
+</tbody>
   </table>
 </div>
 
