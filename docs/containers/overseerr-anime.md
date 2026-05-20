@@ -84,8 +84,8 @@ title: engels74/overseerr-anime
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag4001" onclick="CopyToClipboard('tag4001');return false;" class="tag-decoration">release</div></td><td>Final archived release</td><td><a href="https://github.com/engels74/overseerr-anime/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag14602" onclick="CopyToClipboard('tag14602');return false;" class="tag-decoration">release</div><div id="tag8755" onclick="CopyToClipboard('tag8755');return false;" class="tag-decoration">release-11295b0</div><div id="tag14290" onclick="CopyToClipboard('tag14290');return false;" class="tag-decoration">release-1.34.0-anime</div><div id="tag18759" onclick="CopyToClipboard('tag18759');return false;" class="tag-decoration">release-v1</div><div id="tag17308" onclick="CopyToClipboard('tag17308');return false;" class="tag-decoration">release-v1.34</div><div id="tag13390" onclick="CopyToClipboard('tag13390');return false;" class="tag-decoration">release-v1.34.0</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commit/11295b09e9d89b5eae2a5048c42c0bf930094936" target="_blank">chore(deprecation): warn image users to migrate from unsafe fork--Constraint: The published Docker image includes obsolete Overseerr Anime bits and known unfixed axios CVE exposure.-Rejected: Shipping another image refresh | Would continue distributing an unsafe and unmaintained fork.-Confidence: high-Scope-risk: narrow-Directive: Keep startup warnings and README deprecation language aligned with source-branch notices.-Tested: prettier --check README.md; bash -n s6 run scripts; git diff --check-Not-tested: Container boot log smoke test.</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions/runs/26187259166" target="_blank">2026-05-20 20:12:10</a></td></tr>
+</tbody>
   </table>
 </div>
 

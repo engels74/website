@@ -1,1 +1,18 @@
-{}
+{
+  "release": {
+    "commit_message": "chore(deprecation): warn image users to migrate from unsafe fork\n\nConstraint: The published Docker image includes obsolete Overseerr Anime bits and known unfixed axios CVE exposure.\nRejected: Shipping another image refresh | Would continue distributing an unsafe and unmaintained fork.\nConfidence: high\nScope-risk: narrow\nDirective: Keep startup warnings and README deprecation language aligned with source-branch notices.\nTested: prettier --check README.md; bash -n s6 run scripts; git diff --check\nNot-tested: Container boot log smoke test.",
+    "commit_sha": "11295b09e9d89b5eae2a5048c42c0bf930094936",
+    "description": "Releases",
+    "last_updated": "2026-05-20T20:12:10.000Z",
+    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26187259166",
+    "tags": [
+      "latest",
+      "release",
+      "release-11295b0",
+      "release-1.34.0-anime",
+      "release-v1",
+      "release-v1.34",
+      "release-v1.34.0"
+    ]
+  }
+}
