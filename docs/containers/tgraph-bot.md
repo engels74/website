@@ -26,8 +26,8 @@ title: engels74/tgraph-bot
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag8001" onclick="CopyToClipboard('tag8001');return false;" class="tag-decoration">release</div></td><td>Releases</td><td><a href="https://github.com/engels74/tgraph-bot/commits/release" target="_blank">View commits</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions" target="_blank">View builds</a></td></tr>
-    </tbody>
+<tr><td><div id="tag2033" onclick="CopyToClipboard('tag2033');return false;" class="tag-decoration">nightly</div><div id="tag32468" onclick="CopyToClipboard('tag32468');return false;" class="tag-decoration">nightly-7d35bfd</div><div id="tag19101" onclick="CopyToClipboard('tag19101');return false;" class="tag-decoration">nightly-87784dd6255bbf3da172777d78608a038965a542</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/tgraph-bot/commit/7d35bfdd0cdd40a4efdfacd67b86c6018a354f68" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions/runs/26191138970" target="_blank">2026-05-20 21:30:36</a></td></tr>
+</tbody>
   </table>
 </div>
 
