@@ -14,5 +14,21 @@
       "release-v5.0",
       "release-v5.0.3"
     ]
+  },
+  "testing": {
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "f041b2734542c20216152192dfedffc9bda8523b",
+    "description": "Pre-releases",
+    "last_updated": "2026-05-20T21:59:09.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26192426649",
+    "tags": [
+      "",
+      "testing",
+      "testing-f041b27",
+      "testing-5.0.3",
+      "testing-v5",
+      "testing-v5.0",
+      "testing-v5.0.3"
+    ]
   }
 }
