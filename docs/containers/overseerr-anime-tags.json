@@ -1,18 +1,18 @@
 {
   "release": {
-    "commit_message": "chore(deprecation): warn image users to migrate from unsafe fork\n\nConstraint: The published Docker image includes obsolete Overseerr Anime bits and known unfixed axios CVE exposure.\nRejected: Shipping another image refresh | Would continue distributing an unsafe and unmaintained fork.\nConfidence: high\nScope-risk: narrow\nDirective: Keep startup warnings and README deprecation language aligned with source-branch notices.\nTested: prettier --check README.md; bash -n s6 run scripts; git diff --check\nNot-tested: Container boot log smoke test.",
-    "commit_sha": "11295b09e9d89b5eae2a5048c42c0bf930094936",
+    "commit_message": "ci(docker): align anime image with current build workflows\n\nKeep the soon-to-be-archived image buildable on the current shared base-image workflow stack and make the final image track the pushed warning source commit.\n\nConstraint: The source warning commit had to be pushed first because the Docker workflow fetches public source archives by remote ref.\n\nRejected: Continue tagging source-only releases | the current sibling Docker repos use metadata commands to track moving upstream refs.\n\nConfidence: high\n\nScope-risk: moderate\n\nDirective: Before final archival, confirm the source branch SHA in meta.json is the intended final app source.\n\nTested: jq meta.json parse; Ruby YAML parse for workflows; bash -n scripts; meta commands match current values; GitHub source archive HEAD resolves; git diff --check.\n\nNot-tested: Full Docker image build and GHCR smoke test locally.",
+    "commit_sha": "69d9d66cd63a67da5289742065537a3577e78daf",
     "description": "Releases",
-    "last_updated": "2026-05-20T20:12:10.000Z",
-    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26187259166",
+    "last_updated": "2026-05-22T23:37:50.000Z",
+    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26317111224",
     "tags": [
       "latest",
       "release",
-      "release-11295b0",
-      "release-1.34.0-anime",
-      "release-v1",
-      "release-v1.34",
-      "release-v1.34.0"
+      "release-69d9d66",
+      "release-8e09ac31f62103ebab4c77628720dde1c4751477",
+      "",
+      "",
+      ""
     ]
   }
 }
