@@ -84,7 +84,14 @@ title: engels74/overseerr-anime
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag24808" onclick="CopyToClipboard('tag24808');return false;" class="tag-decoration">release</div><div id="tag10438" onclick="CopyToClipboard('tag10438');return false;" class="tag-decoration">release-f67a68a</div><div id="tag25205" onclick="CopyToClipboard('tag25205');return false;" class="tag-decoration">release-f0c29573fbcbed0810e9c49e0dda15bac8c21f00</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commit/f67a68a654263362833f2f687615f4ee9f4c9d20" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions/runs/26329288458" target="_blank">2026-05-23 09:30:00</a></td></tr>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag22847" onclick="CopyToClipboard('tag22847');return false;" class="tag-decoration">release</div><div id="tag22914" onclick="CopyToClipboard('tag22914');return false;" class="tag-decoration">release-1bbfdf2</div><div id="tag20872" onclick="CopyToClipboard('tag20872');return false;" class="tag-decoration">release-15ff5b802462322dfc1532eedd0f2c8794ea81eb</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commit/1bbfdf20db0904a7457d0a318f7a37bf59b18777" target="_blank">chore(docker): track latest deprecation UI source--Constraint: Docker metadata must point at the pushed source branch commit.
+Rejected: Rebuilding locally | The requested sync only requires repository metadata to reference the source commit.
+Confidence: high
+Scope-risk: narrow
+Directive: Keep meta.json version aligned with overseerr-anime-source release branch before image builds.
+Tested: ./update-versions.sh
+Tested: jq -e . meta.json
+Not-tested: Docker image build; not required for metadata sync.</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions/runs/26330045320" target="_blank">2026-05-23 10:11:01</a></td></tr>
 </tbody>
   </table>
 </div>

@@ -1,15 +1,15 @@
 {
   "release": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "f67a68a654263362833f2f687615f4ee9f4c9d20",
+    "commit_message": "chore(docker): track latest deprecation UI source\n\nConstraint: Docker metadata must point at the pushed source branch commit.\\nRejected: Rebuilding locally | The requested sync only requires repository metadata to reference the source commit.\\nConfidence: high\\nScope-risk: narrow\\nDirective: Keep meta.json version aligned with overseerr-anime-source release branch before image builds.\\nTested: ./update-versions.sh\\nTested: jq -e . meta.json\\nNot-tested: Docker image build; not required for metadata sync.",
+    "commit_sha": "1bbfdf20db0904a7457d0a318f7a37bf59b18777",
     "description": "Releases",
-    "last_updated": "2026-05-23T09:30:00.000Z",
-    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26329288458",
+    "last_updated": "2026-05-23T10:11:01.000Z",
+    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26330045320",
     "tags": [
       "latest",
       "release",
-      "release-f67a68a",
-      "release-f0c29573fbcbed0810e9c49e0dda15bac8c21f00",
+      "release-1bbfdf2",
+      "release-15ff5b802462322dfc1532eedd0f2c8794ea81eb",
       "",
       "",
       ""
