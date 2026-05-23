@@ -84,7 +84,7 @@ title: engels74/overseerr-anime
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div class="tag-decoration-latest">latest</div><div id="tag22103" onclick="CopyToClipboard('tag22103');return false;" class="tag-decoration">release</div><div id="tag11297" onclick="CopyToClipboard('tag11297');return false;" class="tag-decoration">release-16f1fb0</div><div id="tag24463" onclick="CopyToClipboard('tag24463');return false;" class="tag-decoration">release-9c4845f982d922c2ebc18d9318cb56746006b19d</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commit/16f1fb0235fa08edafa521129cd1e8dc8a37131a" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions/runs/26318966162" target="_blank">2026-05-23 00:51:09</a></td></tr>
+<tr><td><div class="tag-decoration-latest">latest</div><div id="tag24808" onclick="CopyToClipboard('tag24808');return false;" class="tag-decoration">release</div><div id="tag10438" onclick="CopyToClipboard('tag10438');return false;" class="tag-decoration">release-f67a68a</div><div id="tag25205" onclick="CopyToClipboard('tag25205');return false;" class="tag-decoration">release-f0c29573fbcbed0810e9c49e0dda15bac8c21f00</div></td><td>Releases</td><td><a href="https://github.com/engels74/overseerr-anime/commit/f67a68a654263362833f2f687615f4ee9f4c9d20" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/overseerr-anime/actions/runs/26329288458" target="_blank">2026-05-23 09:30:00</a></td></tr>
 </tbody>
   </table>
 </div>
