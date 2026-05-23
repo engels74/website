@@ -1,15 +1,15 @@
 {
   "release": {
-    "commit_message": "ci(docker): align anime image with current build workflows\n\nKeep the soon-to-be-archived image buildable on the current shared base-image workflow stack and make the final image track the pushed warning source commit.\n\nConstraint: The source warning commit had to be pushed first because the Docker workflow fetches public source archives by remote ref.\n\nRejected: Continue tagging source-only releases | the current sibling Docker repos use metadata commands to track moving upstream refs.\n\nConfidence: high\n\nScope-risk: moderate\n\nDirective: Before final archival, confirm the source branch SHA in meta.json is the intended final app source.\n\nTested: jq meta.json parse; Ruby YAML parse for workflows; bash -n scripts; meta commands match current values; GitHub source archive HEAD resolves; git diff --check.\n\nNot-tested: Full Docker image build and GHCR smoke test locally.",
-    "commit_sha": "69d9d66cd63a67da5289742065537a3577e78daf",
+    "commit_message": "ci(docker): point anime image at gated warning source\n\nUpdate the archived image metadata to build from the pushed source commit containing the modal-style warning and five-close snooze gate.\n\nConstraint: Docker builds fetch source archives by remote commit SHA, so meta.json must follow the pushed source branch.\n\nRejected: Wait for scheduled update | this push should immediately make the release branch represent the intended image source.\n\nConfidence: high\n\nScope-risk: narrow\n\nDirective: Re-run update-versions.sh after any final source warning changes before archiving the image repo.\n\nTested: jq meta.json parse; Ruby YAML parse for workflows; bash -n scripts; metadata commands match current values; GitHub source archive HEAD resolves; git diff --check.\n\nNot-tested: Full Docker image build and GHCR smoke test locally.",
+    "commit_sha": "8d00d71eda06c266c3196dc37acae4e8a403a419",
     "description": "Releases",
-    "last_updated": "2026-05-22T23:37:50.000Z",
-    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26317111224",
+    "last_updated": "2026-05-23T00:12:25.000Z",
+    "last_updated_url": "https://github.com/engels74/overseerr-anime/actions/runs/26318023707",
     "tags": [
       "latest",
       "release",
-      "release-69d9d66",
-      "release-8e09ac31f62103ebab4c77628720dde1c4751477",
+      "release-8d00d71",
+      "release-b8463f61b13060c65698bc26a410494c7ac3a27e",
       "",
       "",
       ""
