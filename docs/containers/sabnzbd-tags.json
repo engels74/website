@@ -32,15 +32,15 @@
     ]
   },
   "testing": {
-    "commit_message": "chore(build): add dockerfile syntax + check directives\n\nMirror hotio/caddy@39f3ebf: pin BuildKit frontend and skip\nInvalidDefaultArgInFrom warning for ARG UPSTREAM_* in FROM.",
-    "commit_sha": "157794f8f686acbb6aae403ffdf94f379cda4c63",
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "8cb8081bf0434dd07e454648cad1d85a1dabe307",
     "description": "Pre-releases",
-    "last_updated": "2026-05-24T10:51:47.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26359244069",
+    "last_updated": "2026-05-24T12:02:19.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26360698426",
     "tags": [
       "",
       "testing",
-      "testing-157794f",
+      "testing-8cb8081",
       "testing-5.0.3",
       "testing-v5",
       "testing-v5.0",
