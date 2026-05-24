@@ -32,15 +32,15 @@
     ]
   },
   "testing": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "31fa7f7dfec042547696a92de39aa167d4611061",
+    "commit_message": "chore(build): add dockerfile syntax + check directives\n\nMirror hotio/caddy@39f3ebf: pin BuildKit frontend and skip\nInvalidDefaultArgInFrom warning for ARG UPSTREAM_* in FROM.",
+    "commit_sha": "157794f8f686acbb6aae403ffdf94f379cda4c63",
     "description": "Pre-releases",
-    "last_updated": "2026-05-24T05:03:34.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26352501722",
+    "last_updated": "2026-05-24T10:51:47.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26359244069",
     "tags": [
       "",
       "testing",
-      "testing-31fa7f7",
+      "testing-157794f",
       "testing-5.0.3",
       "testing-v5",
       "testing-v5.0",
