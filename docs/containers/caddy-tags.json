@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "cea7ea0d62303f8db711b8f25bd7df1c5c02db0b",
+    "commit_message": "chore(build): add dockerfile syntax + check directives\n\nMirror hotio/caddy@39f3ebf: pin BuildKit frontend and skip\nInvalidDefaultArgInFrom warning for ARG UPSTREAM_* in FROM.",
+    "commit_sha": "6e04c62f05c346091f0fb75f192f61fe150a8455",
     "description": "Releases",
-    "last_updated": "2026-05-24T07:49:10.000Z",
-    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/26355569144",
+    "last_updated": "2026-05-24T10:47:47.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/26359164684",
     "tags": [
       "latest",
       "release",
-      "release-cea7ea0",
+      "release-6e04c62",
       "release-2.11.3",
       "release-v2",
       "release-v2.11",
