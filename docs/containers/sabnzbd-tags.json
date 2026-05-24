@@ -1,14 +1,14 @@
 {
   "nightly": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "1fa0ffa9d6e2bf0e9e7c60f85a69eebc1b6d2ad5",
+    "commit_message": "chore(build): add dockerfile syntax + check directives\n\nMirror hotio/caddy@39f3ebf: pin BuildKit frontend and skip\nInvalidDefaultArgInFrom warning for ARG UPSTREAM_* in FROM.",
+    "commit_sha": "8e4feee37519b0a282360dc599102358a15feaa3",
     "description": "Every commit to develop",
-    "last_updated": "2026-05-24T05:03:34.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26352501761",
+    "last_updated": "2026-05-24T10:51:28.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/26359237304",
     "tags": [
       "",
       "nightly",
-      "nightly-1fa0ffa",
+      "nightly-8e4feee",
       "nightly-25d20f0f08ce2078402faf0e7b281db9ceb04643",
       "",
       "",
