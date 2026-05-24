@@ -1,14 +1,14 @@
 {
   "nightly": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "e9389ff320a075daacb7c570d04b7bd26afa649d",
+    "commit_message": "chore(build): add dockerfile syntax + check directives\n\nMirror hotio/caddy@39f3ebf: pin BuildKit frontend and skip\nInvalidDefaultArgInFrom warning for ARG UPSTREAM_* in FROM.",
+    "commit_sha": "181ab345be93e8e17e57626ea1c55a858c78aa2d",
     "description": "Every commit to develop",
-    "last_updated": "2026-05-24T06:27:26.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/26353997111",
+    "last_updated": "2026-05-24T10:48:55.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/26359185935",
     "tags": [
       "",
       "nightly",
-      "nightly-e9389ff",
+      "nightly-181ab34",
       "nightly-87784dd6255bbf3da172777d78608a038965a542",
       "",
       "",
