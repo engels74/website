@@ -1,14 +1,14 @@
 {
   "nightly": {
     "commit_message": "Modified: meta.json",
-    "commit_sha": "8564df62fa047ec2c2b1d55cec2a1b2be0bb272e",
+    "commit_sha": "f256d241d904eea5072132f5e912eed1d13ce3a6",
     "description": "Every commit to develop",
-    "last_updated": "2026-05-24T14:23:22.000Z",
-    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/26363790794",
+    "last_updated": "2026-05-27T16:32:19.000Z",
+    "last_updated_url": "https://github.com/engels74/tgraph-bot/actions/runs/26524562739",
     "tags": [
       "",
       "nightly",
-      "nightly-8564df6",
+      "nightly-f256d24",
       "nightly-87784dd6255bbf3da172777d78608a038965a542",
       "",
       "",
