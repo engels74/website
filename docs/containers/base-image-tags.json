@@ -1,14 +1,14 @@
 {
   "alpinevpn": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "8e8763e3fb3701a90794dcd3b6e80d0fa47a8dcb",
+    "commit_message": "Modified: packages.txt",
+    "commit_sha": "de56f16c0a0040a0ab8efb95f25685f86b306338",
     "description": "Alpine 3.23",
-    "last_updated": "2026-06-22T21:28:58.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/27985280340",
+    "last_updated": "2026-06-29T14:43:23.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/28380435919",
     "tags": [
       "",
       "alpinevpn",
-      "alpinevpn-8e8763e",
+      "alpinevpn-de56f16",
       "",
       "",
       "",
