@@ -16,15 +16,15 @@
     ]
   },
   "release": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "bd2d82f2ccf363028c00879310b89365a547ab12",
+    "commit_message": "fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1",
+    "commit_sha": "07dd1d33d69baa5458e790f641a8f4c7db566cd9",
     "description": "Releases",
-    "last_updated": "2026-07-14T08:09:08.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/29317009396",
+    "last_updated": "2026-07-15T14:41:30.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/29424692992",
     "tags": [
       "latest",
       "release",
-      "release-bd2d82f",
+      "release-07dd1d3",
       "release-5.2.3--4.14.3",
       "release-v5",
       "release-v5.2",
