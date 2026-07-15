@@ -16,15 +16,15 @@
     ]
   },
   "release": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "5cab8a094ea2eda370354e3287e77da5efab3700",
+    "commit_message": "fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1",
+    "commit_sha": "22b6fafa41c0542d04f69e85ff0d1141ea314f3d",
     "description": "Releases",
-    "last_updated": "2026-07-14T08:12:12.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29317186467",
+    "last_updated": "2026-07-15T14:41:34.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29424697585",
     "tags": [
       "latest",
       "release",
-      "release-5cab8a0",
+      "release-22b6faf",
       "release-5.0.4",
       "release-v5",
       "release-v5.0",
