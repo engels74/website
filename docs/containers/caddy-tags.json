@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Modified: meta.json",
-    "commit_sha": "023b888f910f0ed2971733f19f32f6cfdb4e9362",
+    "commit_message": "fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1",
+    "commit_sha": "dcc75485cf995c36248093ab19906e5f3d1b295d",
     "description": "Releases",
-    "last_updated": "2026-07-08T22:09:38.000Z",
-    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/28979216739",
+    "last_updated": "2026-07-15T14:41:17.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/29424677409",
     "tags": [
       "latest",
       "release",
-      "release-023b888",
+      "release-dcc7548",
       "release-2.11.4",
       "release-v2",
       "release-v2.11",
