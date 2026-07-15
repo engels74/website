@@ -16,15 +16,15 @@
     ]
   },
   "noblevpn": {
-    "commit_message": "Sync with upstream (hotio/base@noblevpn) and apply custom updates",
-    "commit_sha": "429c7badb07ea617f36277daa161a2d070144265",
+    "commit_message": "fix: unpin s6-overlay and re-enable auto-update",
+    "commit_sha": "8299094e5a4dee8c350ff4b4e6b926a9ead166bc",
     "description": "Ubuntu 24.04",
-    "last_updated": "2026-07-15T13:37:42.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/29419993248",
+    "last_updated": "2026-07-15T14:26:50.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/29424259546",
     "tags": [
       "",
       "noblevpn",
-      "noblevpn-429c7ba",
+      "noblevpn-8299094",
       "",
       "",
       "",
