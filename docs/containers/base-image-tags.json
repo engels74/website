@@ -1,14 +1,14 @@
 {
   "alpinevpn": {
-    "commit_message": "Sync with upstream (hotio/base@alpinevpn) and apply custom updates",
-    "commit_sha": "0346c79295ff6597171c9cf8db6fb64bcc2e8ba1",
+    "commit_message": "fix: unpin s6-overlay and re-enable auto-update",
+    "commit_sha": "547a07e5ebaff67d4e325e2607c81948e17edf1d",
     "description": "Alpine 3.23",
-    "last_updated": "2026-07-15T13:37:41.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/29419992487",
+    "last_updated": "2026-07-15T14:26:26.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/29424260634",
     "tags": [
       "",
       "alpinevpn",
-      "alpinevpn-0346c79",
+      "alpinevpn-547a07e",
       "",
       "",
       "",
