@@ -1,14 +1,14 @@
 {
   "alpinevpn": {
-    "commit_message": "fix: unpin s6-overlay and re-enable auto-update",
-    "commit_sha": "547a07e5ebaff67d4e325e2607c81948e17edf1d",
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "303093dd7f79e142485d9a81e33145e18410861e",
     "description": "Alpine 3.23",
-    "last_updated": "2026-07-15T14:26:26.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/29424260634",
+    "last_updated": "2026-07-16T10:00:35.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/29489261289",
     "tags": [
       "",
       "alpinevpn",
-      "alpinevpn-547a07e",
+      "alpinevpn-303093d",
       "",
       "",
       "",
