@@ -1,15 +1,15 @@
 {
   "nightly": {
-    "commit_message": "fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1",
-    "commit_sha": "b812ddcefa14cc90b53c5265d40241783a7c5b94",
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "925b21cd5547f9fbdae5ddf74cfa9ed623f8743c",
     "description": "Every commit to develop",
-    "last_updated": "2026-07-15T14:41:36.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29424701426",
+    "last_updated": "2026-07-16T07:23:57.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29479792202",
     "tags": [
       "",
       "nightly",
-      "nightly-b812ddc",
-      "nightly-44777dc3cf5bcebf175d9ee95c7e1965c4d714c8",
+      "nightly-925b21c",
+      "nightly-5b7a89ffb8a9287046e2fb02a803861f2db83369",
       "",
       "",
       ""
