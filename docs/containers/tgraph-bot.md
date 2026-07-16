@@ -26,7 +26,7 @@ title: engels74/tgraph-bot
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div id="tag8300" onclick="CopyToClipboard('tag8300');return false;" class="tag-decoration">nightly</div><div id="tag3635" onclick="CopyToClipboard('tag3635');return false;" class="tag-decoration">nightly-8ff512b</div><div id="tag1430" onclick="CopyToClipboard('tag1430');return false;" class="tag-decoration">nightly-cad608ba2fdb4610dcab996fe205d82dba76658c</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/tgraph-bot/commit/8ff512ba844cb44b17440a21de05d1d9452a18b1" target="_blank">fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions/runs/29424706485" target="_blank">2026-07-15 14:41:42</a></td></tr>
+<tr><td><div id="tag18040" onclick="CopyToClipboard('tag18040');return false;" class="tag-decoration">nightly</div><div id="tag27670" onclick="CopyToClipboard('tag27670');return false;" class="tag-decoration">nightly-e5078e7</div><div id="tag17768" onclick="CopyToClipboard('tag17768');return false;" class="tag-decoration">nightly-cad608ba2fdb4610dcab996fe205d82dba76658c</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/tgraph-bot/commit/e5078e7ab1c9ed029c3042fae1dc0f6be4bea253" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions/runs/29494458012" target="_blank">2026-07-16 11:26:51</a></td></tr>
 </tbody>
   </table>
 </div>
