@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1",
-    "commit_sha": "a0a8e98409f987bee8d1f800ca4994c7cddb4331",
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "2ace01aa9729f96571e44eec2cd723f5867d983e",
     "description": "Releases",
-    "last_updated": "2026-07-15T14:41:28.000Z",
-    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/29424692974",
+    "last_updated": "2026-07-16T10:18:46.000Z",
+    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/29490371834",
     "tags": [
       "latest",
       "release",
-      "release-a0a8e98",
+      "release-2ace01a",
       "release-5.2.3",
       "release-v5",
       "release-v5.2",
