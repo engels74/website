@@ -32,15 +32,15 @@
     ]
   },
   "testing": {
-    "commit_message": "fix: move user bundle markers to user-bundles.d for s6-overlay >= 3.2.3.1",
-    "commit_sha": "1e4ca177af138b56d90a850f38d042d76b5b9471",
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "7336589951f67b55cde564e1a07a1e94d19f0c6e",
     "description": "Pre-releases",
-    "last_updated": "2026-07-15T14:41:38.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29424701638",
+    "last_updated": "2026-07-16T10:12:24.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29489995661",
     "tags": [
       "",
       "testing",
-      "testing-1e4ca17",
+      "testing-7336589",
       "testing-5.0.4",
       "testing-v5",
       "testing-v5.0",
