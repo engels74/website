@@ -1,15 +1,15 @@
 {
   "nightly": {
     "commit_message": "Modified: meta.json",
-    "commit_sha": "3273486ed5245093df882a4a4fc2cd37ae326a41",
+    "commit_sha": "dfa218e4d1531997679f2cb41540ccaddbdfe4e1",
     "description": "Every commit to develop",
-    "last_updated": "2026-07-22T19:25:30.000Z",
-    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/29950913463",
+    "last_updated": "2026-07-25T07:20:35.000Z",
+    "last_updated_url": "https://github.com/engels74/sabnzbd/actions/runs/30149139111",
     "tags": [
       "",
       "nightly",
-      "nightly-3273486",
-      "nightly-3ab1782dc227cb7125d6ef538ace57d79033a39f",
+      "nightly-dfa218e",
+      "nightly-fa3f8735ea6d87c54973644c07006c75b5a84c95",
       "",
       "",
       ""
