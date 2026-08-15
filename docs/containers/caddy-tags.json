@@ -1,14 +1,14 @@
 {
   "release": {
     "commit_message": "Modified: meta.json",
-    "commit_sha": "5bb28774c5f8f568ad2733adbd12f62af2c704d7",
+    "commit_sha": "13cf030f61cda17ad9852a892adf4548e31ee659",
     "description": "Releases",
-    "last_updated": "2026-07-28T19:23:14.000Z",
-    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/30391718172",
+    "last_updated": "2026-08-15T08:27:52.000Z",
+    "last_updated_url": "https://github.com/engels74/caddy/actions/runs/31874546018",
     "tags": [
       "latest",
       "release",
-      "release-5bb2877",
+      "release-13cf030",
       "release-2.11.4",
       "release-v2",
       "release-v2.11",
