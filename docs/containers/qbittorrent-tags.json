@@ -1,14 +1,14 @@
 {
   "release": {
-    "commit_message": "Modified: packages.txt",
-    "commit_sha": "3fd7bdbab6be550210124b57b7d7c8b9bc7c9be4",
+    "commit_message": "Modified: meta.json",
+    "commit_sha": "74b2a513a0de67cf9baa61c71c0d06fd0b8ecce9",
     "description": "Releases",
-    "last_updated": "2026-08-17T14:35:53.000Z",
-    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/32039599947",
+    "last_updated": "2026-08-18T07:46:33.000Z",
+    "last_updated_url": "https://github.com/engels74/qbittorrent/actions/runs/32113054813",
     "tags": [
       "latest",
       "release",
-      "release-3fd7bdb",
+      "release-74b2a51",
       "release-5.2.3",
       "release-v5",
       "release-v5.2",
