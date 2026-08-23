@@ -26,7 +26,7 @@ title: engels74/tgraph-bot
       </tr>
     </thead>
     <tbody id="tags-table-body">
-<tr><td><div id="tag902" onclick="CopyToClipboard('tag902');return false;" class="tag-decoration">nightly</div><div id="tag17816" onclick="CopyToClipboard('tag17816');return false;" class="tag-decoration">nightly-f2376e7</div><div id="tag22627" onclick="CopyToClipboard('tag22627');return false;" class="tag-decoration">nightly-910084539e371c49c9099d03ef1bb31878719623</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/tgraph-bot/commit/f2376e71edab197d3a72a714ae08e073a985ca1d" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions/runs/32418677248" target="_blank">2026-08-20 21:17:49</a></td></tr>
+<tr><td><div id="tag13920" onclick="CopyToClipboard('tag13920');return false;" class="tag-decoration">nightly</div><div id="tag12665" onclick="CopyToClipboard('tag12665');return false;" class="tag-decoration">nightly-6bf8658</div><div id="tag10488" onclick="CopyToClipboard('tag10488');return false;" class="tag-decoration">nightly-cd7df8887d096e72fb256e972e13583a26d146ff</div></td><td>Every commit to develop</td><td><a href="https://github.com/engels74/tgraph-bot/commit/6bf8658a90791003a1dde841f1041363bd005240" target="_blank">Modified: meta.json</a></td><td><a href="https://github.com/engels74/tgraph-bot/actions/runs/32608387673" target="_blank">2026-08-23 00:38:39</a></td></tr>
 </tbody>
   </table>
 </div>
