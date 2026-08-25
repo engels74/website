@@ -1,14 +1,14 @@
 {
   "nightly": {
     "commit_message": "Modified: meta.json",
-    "commit_sha": "7b09cf1806c79621d566a5d49b3a2652a2f0fdb3",
+    "commit_sha": "a9e164a3981f0a1e035f5105a7685b7736bdb7ed",
     "description": "nightly",
-    "last_updated": "2026-08-25T11:29:14.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/32842559678",
+    "last_updated": "2026-08-25T12:50:03.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/32849806868",
     "tags": [
       "",
       "nightly",
-      "nightly-7b09cf1",
+      "nightly-a9e164a",
       "nightly-5.2.3--31795506608",
       "nightly-v5",
       "nightly-v5.2",
