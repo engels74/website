@@ -17,14 +17,14 @@
   },
   "noblevpn": {
     "commit_message": "Modified: packages.txt",
-    "commit_sha": "2da2855757aa2b818fa3c2020093e935ca31ed97",
+    "commit_sha": "946afa4745c85433f3c9422589cc160a199791a2",
     "description": "Ubuntu 24.04",
-    "last_updated": "2026-09-16T17:53:57.000Z",
-    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/35131022184",
+    "last_updated": "2026-09-16T20:42:34.000Z",
+    "last_updated_url": "https://github.com/engels74/base-image/actions/runs/35148174279",
     "tags": [
       "",
       "noblevpn",
-      "noblevpn-2da2855",
+      "noblevpn-946afa4",
       "",
       "",
       "",
