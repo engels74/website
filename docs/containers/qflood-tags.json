@@ -17,14 +17,14 @@
   },
   "release": {
     "commit_message": "Modified: meta.json",
-    "commit_sha": "bdd8c94ce1cbf8e7e87d2f5e95fb9d484cc70423",
+    "commit_sha": "75732a3426ab7bafec9ed0c25f4302c77f58a982",
     "description": "Releases",
-    "last_updated": "2026-09-19T13:44:07.000Z",
-    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/35446637128",
+    "last_updated": "2026-09-25T18:17:49.000Z",
+    "last_updated_url": "https://github.com/engels74/qflood/actions/runs/36172517256",
     "tags": [
       "latest",
       "release",
-      "release-bdd8c94",
+      "release-75732a3",
       "release-5.2.3--4.16.2",
       "release-v5",
       "release-v5.2",
